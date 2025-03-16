@@ -7,7 +7,6 @@ This project is a simple web scraper built in Python to extract quotes and their
 ## Project Structure
 - `scraper.py`: The main Python script that performs the web scraping and stores data in `quotes.db`.
 - `quotes.db`: The SQLite database file containing the scraped quotes and authors.
-- `quotes.csv`: (Optional) A CSV file with the exported data for easy viewing and sharing.
 
 ## Prerequisites
 Before running the script, ensure you have the following installed:
